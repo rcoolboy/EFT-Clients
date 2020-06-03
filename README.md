@@ -1,9 +1,10 @@
 # EFT-Clients  
-### Archive of clients storaged on diffrent servers  
+### Archive of clients storaged on mega 
   
 Links:  
-https://mega.nz/folder/pQxDSJ7B  
-https://mega.nz/folder/FNYxCKAT
+https://mega.nz/folder/pQxDSJ7B#1F8Vn7OZwKhtepLei7QWLg 
+https://mega.nz/folder/FNYxCKAT#8UGY_wgP9r4uGItuWJClng
+https://mega.nz/folder/0BxhTByR#fqleek6pdffa7WtWHb6BMg
 
 **Clients List:**
 - 0.1.0.1002
@@ -11,6 +12,7 @@ https://mega.nz/folder/FNYxCKAT
 - 0.11.7.3867
 - 0.11.7.3954
 - 0.11.7.4174
+- 0.11.7.4711
 - 0.12.1.5208
 - 0.12.1.5413
 - 0.12.2.5485
