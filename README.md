@@ -22,3 +22,4 @@ https://mega.nz/folder/0BxhTByR#fqleek6pdffa7WtWHb6BMg
 - 0.12.4.6254
 - 0.12.4.6297
 - 0.12.5.7070
+- 0.12.6.7526
